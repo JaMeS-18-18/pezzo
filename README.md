@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 align="center">
+  <h6 align="center">
   <a href="https://pezzo.ai/#gh-light-mode-only" target="_blank">
     <img src="https://cdn.pezzo.ai/logo-light-mode.svg" alt="logo" width="150">
   </a>
@@ -8,7 +8,7 @@
   <a href="https://pezzo.ai/#gh-dark-mode-only" target="_blank">
     <img src="https://cdn.pezzo.ai/logo-dark-mode.svg"" alt="logo" width="150">
   </a>
-  </h1>
+  </h6>
 </p>
 
 <p align="center">
